@@ -1,4 +1,8 @@
-# video-browser
+# YouTube- VUE explorer
+
+Study implementation of VUE with YouTube API.
+
+You can use Yarn or Npm to run the bellow commands.
 
 ## Project setup
 ```
